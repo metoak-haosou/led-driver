@@ -1,0 +1,1 @@
+cmd_/home/wangjie/work/workspace/eclipse/led8/led8.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/wangjie/work/workspace/eclipse/led8/led8.ko /home/wangjie/work/workspace/eclipse/led8/led8.o /home/wangjie/work/workspace/eclipse/led8/led8.mod.o

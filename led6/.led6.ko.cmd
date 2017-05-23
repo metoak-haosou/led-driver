@@ -1,0 +1,1 @@
+cmd_/home/wangjie/work/workspace/eclipse/led6/led6.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/wangjie/work/workspace/eclipse/led6/led6.ko /home/wangjie/work/workspace/eclipse/led6/led6.o /home/wangjie/work/workspace/eclipse/led6/led6.mod.o
